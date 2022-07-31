@@ -370,6 +370,16 @@ export const students = [
     tracks: 'frontend',
   },
 ]
+{
+    id: 42,
+    firstname: 'Oyetoro',
+    lastname: 'Olufemi',
+    email: 'tomilolafemi1@gmail.com',
+    gender: 'male',
+    age: 25,
+    tracks: 'frontend',
+  },
+
 
 // Tutors
 export const tutors = [
